@@ -25,3 +25,5 @@ which then displays a successful message to the user.
 likewise if any input field is empty on submit, an error action will be dispatched which then updates the error state and then an error modal gets displayed to the user with the error information.
 
 no validation of each input field seperatly was done, so as to demostrate both error and succesful action dispatch from react-redux.
+
+see live demo, [click here](https://matriix69.github.io/fault-report/)
