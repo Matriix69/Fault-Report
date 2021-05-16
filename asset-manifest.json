@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/faultreport/static/css/main.4a04d19a.chunk.css",
-    "main.js": "/faultreport/static/js/main.2832b961.chunk.js",
-    "main.js.map": "/faultreport/static/js/main.2832b961.chunk.js.map",
-    "runtime-main.js": "/faultreport/static/js/runtime-main.6094b1f0.js",
-    "runtime-main.js.map": "/faultreport/static/js/runtime-main.6094b1f0.js.map",
-    "static/js/2.9fb14904.chunk.js": "/faultreport/static/js/2.9fb14904.chunk.js",
-    "static/js/2.9fb14904.chunk.js.map": "/faultreport/static/js/2.9fb14904.chunk.js.map",
-    "static/js/3.1f154360.chunk.js": "/faultreport/static/js/3.1f154360.chunk.js",
-    "static/js/3.1f154360.chunk.js.map": "/faultreport/static/js/3.1f154360.chunk.js.map",
-    "index.html": "/faultreport/index.html",
-    "static/css/main.4a04d19a.chunk.css.map": "/faultreport/static/css/main.4a04d19a.chunk.css.map",
-    "static/js/2.9fb14904.chunk.js.LICENSE.txt": "/faultreport/static/js/2.9fb14904.chunk.js.LICENSE.txt",
-    "static/media/bg.58a7d97d.png": "/faultreport/static/media/bg.58a7d97d.png"
+    "main.css": "/fault-report/static/css/main.4a04d19a.chunk.css",
+    "main.js": "/fault-report/static/js/main.2832b961.chunk.js",
+    "main.js.map": "/fault-report/static/js/main.2832b961.chunk.js.map",
+    "runtime-main.js": "/fault-report/static/js/runtime-main.2fcd6d92.js",
+    "runtime-main.js.map": "/fault-report/static/js/runtime-main.2fcd6d92.js.map",
+    "static/js/2.9fb14904.chunk.js": "/fault-report/static/js/2.9fb14904.chunk.js",
+    "static/js/2.9fb14904.chunk.js.map": "/fault-report/static/js/2.9fb14904.chunk.js.map",
+    "static/js/3.1f154360.chunk.js": "/fault-report/static/js/3.1f154360.chunk.js",
+    "static/js/3.1f154360.chunk.js.map": "/fault-report/static/js/3.1f154360.chunk.js.map",
+    "index.html": "/fault-report/index.html",
+    "static/css/main.4a04d19a.chunk.css.map": "/fault-report/static/css/main.4a04d19a.chunk.css.map",
+    "static/js/2.9fb14904.chunk.js.LICENSE.txt": "/fault-report/static/js/2.9fb14904.chunk.js.LICENSE.txt",
+    "static/media/bg.58a7d97d.png": "/fault-report/static/media/bg.58a7d97d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6094b1f0.js",
+    "static/js/runtime-main.2fcd6d92.js",
     "static/js/2.9fb14904.chunk.js",
     "static/css/main.4a04d19a.chunk.css",
     "static/js/main.2832b961.chunk.js"
